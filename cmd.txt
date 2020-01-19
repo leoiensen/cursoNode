@@ -1,0 +1,2 @@
+cd /
+cd C:\Users\Leo\Desktop\node_js_leo
